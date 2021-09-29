@@ -1,2 +1,2 @@
 # uzowebsite
-uzos cool website
+uzos cool website.
